@@ -16,24 +16,24 @@ The goal is to build a complete machine learning workflow, starting with Simple 
 - Visualize predictions and residuals
 - Improve the project with more advanced models over time
 
-- ## Repository Structure
+## 📂 Repository Structure
 
-- salary-prediction-ml/
+```text
+salary-prediction-ml/
 │
 ├── dataset/
 │   └── Salary_dataset.csv
 │
 ├── notebooks/
-│   └── salary1_prediction.ipynb
+│   ├── salary1_prediction.ipynb
 │   └── salary2_prediction.ipynb
+│
 ├── images/
 │
 ├── requirements.txt
-│
 ├── README.md
-│
 └── LICENSE
-
+```
 ## Technologies
 
 - Python
